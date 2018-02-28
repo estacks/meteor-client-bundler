@@ -1,11 +1,11 @@
 {
   "name": "meteor-client-bundler",
-  "version": "0.3.0",
-  "description": "Bundles Meteor client-packages into a single module",
-  "author": "Eytan Manor",
+  "version": "0.3.1",
+  "description": "Bundles Meteor client-packages into a single module. Forked",
+  "author": "Eric King",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Urigo/meteor-client-bundler.git"
+    "url": "https://github.com/estacks/meteor-client-bundler"
   },
   "bin": {
     "meteor-client": "cli"
